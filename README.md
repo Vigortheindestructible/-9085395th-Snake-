@@ -35,4 +35,4 @@ Tested on Windows 10, as well on pre-Win10 terminals and in linux text mode
 
 ## Images
 
-![Snake Image.](/images/Snakeimage.jpg "Snake Game.")
+![Snake Image.](/Images/Snakeimage.jpg "Snake Game.")
